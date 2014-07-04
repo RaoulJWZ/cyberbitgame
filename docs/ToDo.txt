@@ -1,4 +1,4 @@
 TODO List:
 =======
 
-[x] Update wiki about installing Ubuntu inside windows using Virtual Box [Raoul]
+
